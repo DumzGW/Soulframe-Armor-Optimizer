@@ -1,2 +1,7 @@
 # Soulframe-Armor-Optimizer
-在P13更新后，护甲的不同数值将受到不同的美德影响，配置将难以计算，并且官方还没有公开具体影响数值。本项目将通过游戏内目前12种棱镜与对应加成后护甲属性，自动计算护甲实际受美德的影响数值与上限，并得到在当前美德配置下的最佳装备选择
+现已更新自动计算器
+<img width="1321" height="534" alt="543c2e677f027cfb2cf38dc3d5c01bcd" src="https://github.com/user-attachments/assets/150afba9-384b-490e-92a4-573d7a303aac" />
+根据我个人研究得到的公式，通过excel进行计算
+<img width="2256" height="569" alt="cc5e733183040c6465adacc145738ad5" src="https://github.com/user-attachments/assets/7c4a2ff4-8412-47de-bd76-4d993d17b94b" />
+通过excel存储并直接计算
+存储格式为<img width="2274" height="651" alt="fd43eec63fba8bf3b01a76e0157fc980" src="https://github.com/user-attachments/assets/a4f64c25-28c5-4d0f-8dcd-e5b181069e47" />
